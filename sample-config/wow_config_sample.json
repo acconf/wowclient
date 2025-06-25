@@ -1,0 +1,6 @@
+{
+    "name":"wow_sample_service",
+    "pem":"PATH-TO-SECRET-PEMFILE.such as D:\\pems\\wow_secret_client1.pem",
+    "proxy":"http://user:pass@proxy-server-ip:port",
+    "wstunnel":"PATH-TO-wstunnel.exe"
+}
