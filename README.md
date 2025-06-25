@@ -38,7 +38,7 @@ go build -o wowclient.exe -ldflags "-s -w"
 
 ## USAGE
 ### 1. Install windows service
- - wowclient.exe instal \<ServiceName\> \<Path-To-JSON-Config-File\>
+ - wowclient.exe install \<ServiceName\> \<Path-To-JSON-Config-File\>
 ### 2. Remove windows service
  - wowclient.exe remove \<ServiceName\>
 ### 3. Run CLI directly.
